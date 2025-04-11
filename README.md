@@ -1,4 +1,4 @@
-# **Isoline Method in Linear Programming and Analysis of Three Constraint Scenarios**
+# **Isoline Method in Linear Programming**
 
 ---
 
